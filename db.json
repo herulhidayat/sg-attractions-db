@@ -1,11 +1,104 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "message": [
+    { 
+      "inboxId": 1,
+      "title": "Group Belajar Ngoding",
+      "participant": "3",
+      "chat": [
+        {
+          "chatId": 1,
+          "userId": 1,
+          "name": "Kevin",
+          "message": "Otewe mas",
+          "created_at": "2020-03-09T22:18:26.625Z"
+        },
+        {
+          "chatId": 2,
+          "userId": 2,
+          "name": "Alif",
+          "message": "Apa kabar?",
+          "created_at": "2020-03-09T22:18:27.625Z"
+        },
+        {
+          "chatId": 3,
+          "userId": 1,
+          "name": "Kevin",
+          "message": "Baik bro",
+          "created_at": "2020-03-09T22:18:28.625Z"
+        },
+        {
+          "chatId": 4,
+          "userId": 3,
+          "name": "Fariz",
+          "message": "Baik baik",
+          "created_at": "2020-03-09T22:18:29.625Z"
+        }
+      ] 
+    },
+    { 
+      "inboxId": 2,
+      "title": "Group Liburan",
+      "participant": "4",
+      "chat": [
+        {
+          "chatId": 1,
+          "userId": 2,
+          "name": "Alif",
+          "message": "Jadi liburan gak",
+          "created_at": "2020-03-09T22:18:25.625Z"
+        },
+        {
+          "chatId": 2,
+          "userId": 1,
+          "name": "Kevin",
+          "message": "Jadi dong!",
+          "created_at": "2020-03-09T22:18:26.625Z"
+        },
+        {
+          "chatId": 3,
+          "userId": 1,
+          "name": "Kevin",
+          "message": "Ehh.. sorry ada kerjaan",
+          "created_at": "2020-03-09T22:18:28.625Z"
+        },
+        {
+          "chatId": 4,
+          "userId": 3,
+          "name": "Fariz",
+          "message": "Mau nikah",
+          "created_at": "2020-03-09T22:18:29.625Z"
+        },
+        {
+          "chatId": 5,
+          "userId": 2,
+          "name": "Alif",
+          "message": "cuman wacana",
+          "created_at": "2020-03-09T22:18:30.625Z"
+        },
+        {
+          "chatId": 6,
+          "userId": 4,
+          "name": "Atta",
+          "message": "Yahhh batal",
+          "created_at": "2020-03-09T22:18:31.625Z"
+        }
+      ] 
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "todos": [
+    {
+      "id": 1,
+      "title": "ngoding day 1",
+      "completed": false,
+      "created_at": "01/08/2023",
+      "notes": "Buat program dengan javascript"
+    },
+    {
+      "id": 2,
+      "title": "kerja web",
+      "completed": true,
+      "created_at": "01/08/2023",
+      "notes": "Perbaiki bug halaman admin"
+    }
+  ]
 }
