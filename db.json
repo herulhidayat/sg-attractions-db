@@ -1,84 +1,11 @@
 {
-  "attractions": [
+  "posts": [
     {
       "id": 1,
-      "name": "Merlion",
-      "lat": "1.2869990261778097",
-      "long": "103.85452323360123",
-      "description": "The Merlion is the official mascot of Singapore. It is depicted as a mythical creature with the head of a lion and the body of a fish."
-    },
-    {
-      "id": 2,
-      "name": "Marina Bay Sands",
-      "lat": "1.2839183882075562",
-      "long": "103.85909574639075",
-      "description": "Marina Bay Sands is an integrated resort fronting Marina Bay in Singapore.",
-      "sub": [
-        {
-          "id": 1,
-          "name": "ArtScience Museum",
-          "description": "ArtScience Museum is a museum within the integrated resort of Marina Bay Sands in the Downtown Core of the Central Area in Singapore."
-        },
-        {
-          "id": 2,
-          "name": "Marina Bay Sands Skypark",
-          "description": "Hotel's observation deck on the 57th floor offering panoramic city views & 2 upscale restaurants."
-        },
-        {
-          "id": 3,
-          "name": "Double Helix Bridge",
-          "description": "The Helix Bridge, officially The Helix, and previously known as the Double Helix Bridge, is a pedestrian bridge linking Marina Centre with Marina South in the Marina Bay area in Singapore."
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Asian Civilisations Museum",
-      "lat": "1.287466",
-      "long": "103.851424",
-      "description": "The Asian Civilisations Museum is an institution which forms a part of the four museums in Singapore, the other three being the Peranakan Museum at Old Tao Nan School, the National Museum of Singapore and the Singapore Art Museum."
-    },
-    {
-      "id": 4,
-      "name": "Clarke Quay",
-      "lat": "1.290555",
-      "long": "103.846188",
-      "description": "Clarke Quay is a historical riverside quay in Singapore, located within the Singapore River Planning Area. The quay is situated upstream from the mouth of the Singapore River and Boat Quay."
-    },
-    {
-      "id": 5,
-      "name": "Fort Canning Park",
-      "lat": "1.295526",
-      "long": "103.845331",
-      "description": "Fort Canning Hill, formerly Government Hill, Singapore Hill and Bukit Larangan, is a small hill, about 48 metres high, in the southeast portion of the island city-state of Singapore, within the Central Area that forms Singapore's central business district."
-    },
-    {
-      "id": 6,
-      "name": "Orchard Road",
-      "lat": "1.302279",
-      "long": "103.837399",
-      "description": "Orchard Road is Singapore’s retail heart, with discount outlets, department stores and upscale boutiques, alongside luxury hotels."
-    },
-    {
-      "id": 7,
-      "name": "Singapore Flyer",
-      "lat": "1.289332",
-      "long": "103.863152",
-      "description": "The Singapore Flyer is an observation wheel at the Downtown Core district of Singapore. Officially opened on 15 April 2008, it has 28 air-conditioned capsules, each able to accommodate 28 passengers, and incorporates a three-story terminal building."
-    },
-    {
-      "id": 8,
-      "name": "Gardens By The Bay",
-      "lat": "1.281790",
-      "long": "103.863954",
-      "description": "The Gardens by the Bay is a nature park spanning 101 hectares in the Central Region of Singapore, adjacent to the Marina Reservoir. The park consists of three waterfront gardens: Bay South Garden, Bay East Garden and Bay Central Garden. "
-    },
-    {
-      "id": 9,
-      "name": "Chinatown",
-      "lat": "1.284193",
-      "long": "103.843362",
-      "description": "Chinatown's maze of narrow roads includes Chinatown Food Street, with its restaurants serving traditional fare like Hainanese chicken rice, noodles and satay. Souvenir shops and indie boutiques dot the area, offering clothes, crafts and antiques, while Club Street is full of trendy wine bars."
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
